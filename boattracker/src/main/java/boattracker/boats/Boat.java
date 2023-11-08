@@ -1,5 +1,7 @@
-package boattracker;
-import java.util.ArrayList;
+package boattracker.boats;
+
+import boattracker.internal.*;
+
 public class Boat {
     private String modelNumber;
     private String boatColor;
